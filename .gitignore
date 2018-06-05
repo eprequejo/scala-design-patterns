@@ -1,0 +1,8 @@
+target/
+project/target/
+.DS_Store
+.project
+.ensime
+.ensime_cache/
+.idea/
+*.iml
